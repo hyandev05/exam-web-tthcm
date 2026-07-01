@@ -1,0 +1,431 @@
+[
+  {
+    "id": 1,
+    "question": "Tư tưởng Hồ Chí Minh là kết quả của quá trình nào ? ",
+    "options": [
+      "Tư tưởng Hồ Chí Minh là kết quả sự vận dụng sáng tạo chủ nghĩa Mác - Lênin trong điều kiện cụ thể của nước ta, và trong thực tế tư tưởng Hồ Chí Minh đã trở thành một tài sản tinh thần quý báu của Đảng ta và của cả dân tộc",
+      "Kết quả của sự kế thừa và phát triển các giá trị văn hóa dân tộc và nhân loại",
+      "Kết quả của quá trình vận dụng sáng tạo chủ nghĩa Mác - Lênin",
+      "Quan điểm lịch sử - cụ thể"
+    ],
+    "correct": "Kết quả của quá trình vận dụng sáng tạo chủ nghĩa Mác - Lênin",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 2,
+    "question": "Nội dung 3 cơ sở lý luận cơ bản khái niệm Tư tưởng Hồ Chí Minh trong đại hội XI là gì?",
+    "options": [
+      "Chỉ nêu được một trong ba nội dung cơ bản của khái niệm TTHCM",
+      "Một là nêu rõ bản chất khoa học và cách mạng cũng như nội dung cơ bản nhất của tư tưởng Hồ Chí Minh. Hai là nêu lên cơ sở hình thành tư tưởng Hồ Chí Minh là chủ nghĩa Mác - Lênin - giá trị cơ bản nhất. Ba là ý nghĩa cùng với chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh là một bộ phận cấu thành nên nền tảng tư tưởng và kim chỉ nam cho hành động của đảng và cách mạng Việt Nam",
+      "Khái niệm TTHCM là sự vận dụng sáng tạo chủ nghĩa Mác-Lênin vào điều kiện cụ thể của Việt Nam",
+      "TTHCM là tài sản tinh thần quý báu của Đảng và dân tộc, mãi mãi soi đường cho cách mạng Việt Nam"
+    ],
+    "correct": "Một là nêu rõ bản chất khoa học và cách mạng cũng như nội dung cơ bản nhất của tư tưởng Hồ Chí Minh. Hai là nêu lên cơ sở hình thành tư tưởng Hồ Chí Minh là chủ nghĩa Mác - Lênin - giá trị cơ bản nhất. Ba là ý nghĩa cùng với chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh là một bộ phận cấu thành nên nền tảng tư tưởng và kim chỉ nam cho hành động của đảng và cách mạng Việt Nam",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 3,
+    "question": "Nghị quyết của UNESCO về kỷ niệm 100 năm Ngày sinh Chủ tịch Hồ Chí Minh được ban hành với số hiệu nào?",
+    "options": [
+      "24C/18.6.5",
+      "26C/20.8.7",
+      "23C/17.5.4",
+      "25C/19.7.6"
+    ],
+    "correct": "24C/18.6.5",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 4,
+    "question": "Trong Nghị quyết 24C/18.6.5, UNESCO ghi nhận Chủ tịch Hồ Chí Minh với danh hiệu gì?",
+    "options": [
+      "Anh hùng giải phóng dân tộc và nhà văn hoá kiệt xuất",
+      "Anh hùng dân tộc vĩ đại",
+      "Lãnh tụ thiên tài của giai cấp công nhân",
+      "Danh nhân văn hóa thế giới"
+    ],
+    "correct": "Anh hùng giải phóng dân tộc và nhà văn hoá kiệt xuất",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 5,
+    "question": "Tổ chức nào đã ra Nghị quyết 24C/18.6.5 ghi nhận Chủ tịch Hồ Chí Minh là “anh hùng giải phóng dân tộc và nhà văn hoá kiệt xuất của Việt Nam”?",
+    "options": [
+      "Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc (UNESCO)",
+      "Tổ chức Y tế Thế giới (WHO)",
+      "Quỹ Nhi đồng Liên Hợp Quốc (UNICEF)",
+      "Tổ chức Lao động Quốc tế (ILO)"
+    ],
+    "correct": "Tổ chức Giáo dục, Khoa học và Văn hóa Liên Hợp Quốc (UNESCO)",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 6,
+    "question": "Đại hội nào của Đảng đã khẳng định: “Đường lối chính trị, nề nếp làm việc và đạo đức cách mạng của Đảng ta hiện nay là đường lối, tác phong và đạo đức Hồ Chủ tịch”?",
+    "options": [
+      "Đại hội VII (1991)",
+      "Đại hội II (2-1951)",
+      "Đại hội IX (4-2001)",
+      "Đại hội V (3-1982)"
+    ],
+    "correct": "Đại hội II (2-1951)",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 7,
+    "question": "Theo Đại hội II, đường lối chính trị, tác phong và đạo đức của Đảng được xác định là của ai?",
+    "options": [
+      "Tổng Bí thư Lê Duẩn",
+      "Đại tướng Võ Nguyên Giáp",
+      "Chủ tịch Tôn Đức Thắng",
+      "Chủ tịch Hồ Chí Minh"
+    ],
+    "correct": "Chủ tịch Hồ Chí Minh",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 8,
+    "question": "Ban Chấp hành Trung ương Đảng đã tôn vinh Chủ tịch Hồ Chí Minh bằng danh hiệu nào dưới đây?",
+    "options": [
+      "Danh nhân văn hóa thế giới",
+      "Anh hùng dân tộc vĩ đại",
+      "Nhà văn hoá kiệt xuất",
+      "Anh hùng giải phóng dân tộc"
+    ],
+    "correct": "Anh hùng dân tộc vĩ đại",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 9,
+    "question": "Đại hội đại biểu toàn quốc lần thứ V của Đảng đã nhấn mạnh điều gì?",
+    "options": [
+      "Đảng phải đặc biệt coi trọng việc tổ chức học tập một cách có hệ thống tư tưởng, đạo đức tác phong của Chủ tịch Hồ Chí Minh trong toàn Đảng",
+      "Đảng phải coi trọng công tác chỉnh đốn Đảng",
+      "Đảng phải tăng cường mở rộng khối đại đoàn kết dân tộc",
+      "Đảng phải đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước"
+    ],
+    "correct": "Đảng phải đặc biệt coi trọng việc tổ chức học tập một cách có hệ thống tư tưởng, đạo đức tác phong của Chủ tịch Hồ Chí Minh trong toàn Đảng",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 10,
+    "question": "Sự kiện nào lần đầu tiên sử dụng khái niệm tư tưởng Hồ Chí Minh trong văn kiện và là một mốc lớn khi nêu cao tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Đại hội đại biểu toàn quốc lần thứ IX của Đảng (năm 2001)",
+      "Đại hội đại biểu toàn quốc lần thứ XI của Đảng (năm 2011)",
+      "Đại hội đại biểu toàn quốc lần thứ VII của Đảng (năm 1991)",
+      "Hội nghị thành lập Đảng Cộng sản Việt Nam (đầu năm 1930)"
+    ],
+    "correct": "Đại hội đại biểu toàn quốc lần thứ VII của Đảng (năm 1991)",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 11,
+    "question": "Việc Đại hội VII khẳng định lấy chủ nghĩa Mác - Lênin và tư tưởng Hồ Chí Minh làm nền tảng tư tưởng và kim chỉ nam cho hành động có ý nghĩa gì đối với tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Chỉ ra được cơ sở lý luận và giá trị của tư tưởng Hồ Chí Minh",
+      "Khẳng định TTHCM là tài sản tinh thần vô giá của Đảng và dân tộc",
+      "Ghi nhận TTHCM là kết quả vận dụng sáng tạo chủ nghĩa Mác-Lênin",
+      "Nâng cao nhận thức về vai trò của TTHCM trong cách mạng Việt Nam"
+    ],
+    "correct": "Chỉ ra được cơ sở lý luận và giá trị của tư tưởng Hồ Chí Minh",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 12,
+    "question": "UNESCO công nhận Hồ Chí Minh là?",
+    "options": [
+      "Nhà văn hoá kiệt xuất",
+      "Anh hùng dân tộc vĩ đại",
+      "Anh hùng giải phóng dân tộc",
+      "Danh nhân văn hóa thế giới"
+    ],
+    "correct": "Anh hùng giải phóng dân tộc",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 13,
+    "question": "Yếu tố thể hiện bản chất khoa học và cách mạng của Tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Là kết quả vận dụng sáng tạo chủ nghĩa Mác - Lênin vào điều kiện cụ thể của nước ta",
+      "Tư tưởng Hồ Chí Minh là tài sản tinh thần quý báu của Đảng và dân tộc",
+      "Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc",
+      "Câu chuyện phạm (vi phạm) nguyên tắc quan điểm toàn diện và hệ thống trong phương pháp luận nghiên cứu tư tưởng Hồ Chí Minh."
+    ],
+    "correct": "Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 14,
+    "question": "Quá trình nhận thức của Đảng Cộng sản Việt Nam về khái niệm tư tưởng Hồ Chí Minh trải qua mấy lần bổ sung, phát triển?",
+    "options": [
+      "Khái niệm này đã trải qua 2 lần bổ sung và phát triển lớn",
+      "Khái niệm này đã trải qua 3 lần bổ sung và phát triển lớn",
+      "Khái niệm này đã trải qua 4 lần bổ sung và phát triển lớn",
+      "Khái niệm này đã trải qua 1 lần bổ sung và phát triển lớn"
+    ],
+    "correct": "Khái niệm này đã trải qua 2 lần bổ sung và phát triển lớn",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 15,
+    "question": "Khái niệm tư tưởng Hồ Chí Minh lần thứ IX?",
+    "options": [
+      "Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vẫn đề cơ bản của cách mạng Việt Nam",
+      "Tư tưởng Hồ Chí Minh là kết quả sự vận dụng sáng tạo chủ nghĩa Mác-Lênin trong điều kiện cụ thể của nước ta",
+      "Tư tưởng Hồ Chí Minh là học thuyết về cách mạng giải phóng dân tộc và xây dựng chủ nghĩa xã hội ở Việt Nam",
+      "Tư tưởng Hồ Chí Minh là tài sản tinh thần to lớn của Đảng và dân tộc, là kim chỉ nam cho hành động"
+    ],
+    "correct": "Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vẫn đề cơ bản của cách mạng Việt Nam",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 16,
+    "question": "Khái niệm TTHCM trong ĐH VII?",
+    "options": [
+      "Tư tưởng Hồ Chí Minh là kết quả sự vận dụng sáng tạo chủ nghĩa Mác - Lênin trong điều kiện cụ thể của nước ta, và trong thực tế tư tưởng Hồ Chí Minh đã trở thành một tài sản tinh thần quý báu của Đảng ta và của cả dân tộc",
+      "Tìm ra con đường cứu nước đúng đắn cho dân tộc. Sáng lập và rèn luyện Đảng Cộng sản Việt Nam. Lãnh đạo nhân dân giành độc lập dân tộc. Đặt nền móng cho Nhà nước Việt Nam mới. Xây dựng khối đại đoàn kết toàn dân tộc. Để lại hệ thống tư tưởng có giá trị to lớn. Nêu tấm gương đạo đức và phong cách mẫu mực. Đóng góp đối với phong trào giải phóng dân tộc và hòa bình thế giới.",
+      "Anh hùng giải phóng dân tộc",
+      "Đảng phải đặc biệt coi trọng việc tổ chức học tập một cách có hệ thống tư tưởng, đạo đức tác phong của Chủ tịch Hồ Chí Minh trong toàn Đảng"
+    ],
+    "correct": "Tư tưởng Hồ Chí Minh là kết quả sự vận dụng sáng tạo chủ nghĩa Mác - Lênin trong điều kiện cụ thể của nước ta, và trong thực tế tư tưởng Hồ Chí Minh đã trở thành một tài sản tinh thần quý báu của Đảng ta và của cả dân tộc",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 17,
+    "question": "Trong Đại hội lần thứ II, Đối tượng nghiên cứu cốt lõi của Tư tưởng HCM?",
+    "options": [
+      "Cuộc đời và sự nghiệp hoạt động cách mạng của Hồ Chí Minh",
+      "Toàn bộ hệ thống quan điểm của Hồ Chí Minh về cách mạng Việt Nam",
+      "Đường lối chính trị, tác phong và đạo đức cách mạng của Hồ Chủ tịch",
+      "Quá trình vận dụng chủ nghĩa Mác - Lênin vào điều kiện Việt Nam"
+    ],
+    "correct": "Đường lối chính trị, tác phong và đạo đức cách mạng của Hồ Chủ tịch",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 18,
+    "question": "Ý nghĩa câu chuyện \"thầy bói xem voi\"? Câu chuyện trên thuận hay phạm cơ sở phương pháp luận nào?",
+    "options": [
+      "Thống nhất lý luận và thực tiễn",
+      "Quan điểm lịch sử - cụ thể",
+      "Câu chuyện phạm (vi phạm) nguyên tắc quan điểm toàn diện và hệ thống trong phương pháp luận nghiên cứu tư tưởng Hồ Chí Minh.",
+      "Quan điểm kế thừa và phát triển"
+    ],
+    "correct": "Câu chuyện phạm (vi phạm) nguyên tắc quan điểm toàn diện và hệ thống trong phương pháp luận nghiên cứu tư tưởng Hồ Chí Minh.",
+    "citation": "C1.III.1.d",
+    "chapter": 1
+  },
+  {
+    "id": 19,
+    "question": "Đối tượng nghiên cứu cốt lõi của học phần TTHCM về cách mạng VN là?",
+    "options": [
+      "Toàn bộ hệ thống quan điểm của Hồ Chí Minh về cách mạng Việt Nam",
+      "Quá trình vận dụng chủ nghĩa Mác - Lênin vào điều kiện Việt Nam",
+      "Cuộc đời và sự nghiệp hoạt động cách mạng của Hồ Chí Minh",
+      "Thứ nhất, toàn bộ những quan điểm của Hồ Chí Minh thể hiện trong di sản của Người. Đó là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam. Thứ hai, quá trình hệ thống quan điểm của Hồ Chí Minh vận động trong thực tiễn. "
+    ],
+    "correct": "Thứ nhất, toàn bộ những quan điểm của Hồ Chí Minh thể hiện trong di sản của Người. Đó là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam. Thứ hai, quá trình hệ thống quan điểm của Hồ Chí Minh vận động trong thực tiễn. ",
+    "citation": "C1.II",
+    "chapter": 1
+  },
+  {
+    "id": 20,
+    "question": "Tại sao Đại hội VII lại được gọi là cột mốc nêu cao TTHCM?",
+    "options": [
+      "<Tôi tự bổ sung sau>",
+      "Vì Đại hội VII là lần đầu tiên Đảng chính thức nêu cao TTHCM trong văn kiện",
+      "Vì Đại hội VII đã khẳng định TTHCM cùng với chủ nghĩa Mác-Lênin là nền tảng tư tưởng",
+      "Vì Đại hội VII đã đánh dấu bước phát triển mới trong nhận thức của Đảng về TTHCM"
+    ],
+    "correct": "<Tôi tự bổ sung sau>",
+    "citation": "x.x.x",
+    "chapter": 1
+  },
+  {
+    "id": 21,
+    "question": "Chủ nghĩa Mác Lênin đóng vai trò gì trong TTHCM?",
+    "options": [
+      "Tìm ra con đường cứu nước đúng đắn cho dân tộc. Sáng lập và rèn luyện Đảng Cộng sản Việt Nam. Lãnh đạo nhân dân giành độc lập dân tộc. Đặt nền móng cho Nhà nước Việt Nam mới. Xây dựng khối đại đoàn kết toàn dân tộc. Để lại hệ thống tư tưởng có giá trị to lớn. Nêu tấm gương đạo đức và phong cách mẫu mực. Đóng góp đối với phong trào giải phóng dân tộc và hòa bình thế giới.",
+      "Đảng phải đặc biệt coi trọng việc tổ chức học tập một cách có hệ thống tư tưởng, đạo đức tác phong của Chủ tịch Hồ Chí Minh trong toàn Đảng",
+      "Một là nêu rõ bản chất khoa học và cách mạng cũng như nội dung cơ bản nhất của tư tưởng Hồ Chí Minh. Hai là nêu lên cơ sở hình thành tư tưởng Hồ Chí Minh là chủ nghĩa Mác - Lênin - giá trị cơ bản nhất. Ba là ý nghĩa cùng với chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh là một bộ phận cấu thành nên nền tảng tư tưởng và kim chỉ nam cho hành động của đảng và cách mạng Việt Nam",
+      "Là cơ sở hình thành lí luận và là giá trị cơ bản nhất. Là bản chất khoa học và cách mạng TTHCM."
+    ],
+    "correct": "Là cơ sở hình thành lí luận và là giá trị cơ bản nhất. Là bản chất khoa học và cách mạng TTHCM.",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 22,
+    "question": "Khi xem xét sự vật, hiện tượng, quá trình hình thành, phát sinh và phát triển của nó. Thuộc nguyên tắc phương pháp luận nào?",
+    "options": [
+      "Quan điểm lịch sử - cụ thể",
+      "Thống nhất lý luận và thực tiễn",
+      "Thống nhất tính đảng và tính khoa học",
+      "Quan điểm toàn diện và hệ thống"
+    ],
+    "correct": "Quan điểm lịch sử - cụ thể",
+    "citation": "C1.III.1.c",
+    "chapter": 1
+  },
+  {
+    "id": 23,
+    "question": "Đối với sinh viên, việc nghiên cứu, học tập Tư tưởng Hồ Chí Minh có ý nghĩa như thế nào?",
+    "options": [
+      "Góp phần nâng cao năng lực tư duy lý luận",
+      "Giáo dục và thực hành đạo đức cách mạng, củng cố niềm tin khoa học",
+      "Góp phần nâng cao năng lực tư duy lý luận. Giáo dục và thực hành đạo đức cách mạng, củng cố niềm tin khoa học gắn liền với trau dồi tình cảm cách mạng, bồi dưỡng lòng yêu nước. Xây dựng, rèn luyện phương pháp và phong cách công tác.",
+      "Xây dựng, rèn luyện phương pháp và phong cách công tác"
+    ],
+    "correct": "Góp phần nâng cao năng lực tư duy lý luận. Giáo dục và thực hành đạo đức cách mạng, củng cố niềm tin khoa học gắn liền với trau dồi tình cảm cách mạng, bồi dưỡng lòng yêu nước. Xây dựng, rèn luyện phương pháp và phong cách công tác.",
+    "citation": "C1.IV",
+    "chapter": 1
+  },
+  {
+    "id": 24,
+    "question": "Tại Đại hội đại biểu toàn quốc lần thứ IX, Đảng đưa ra khái niệm TTHCM là gì?",
+    "options": [
+      "Khái niệm Tư tưởng Hồ Chí Minh",
+      "Tư tưởng Hồ Chí Minh là kết quả sự vận dụng sáng tạo chủ nghĩa Mác-Lênin trong điều kiện cụ thể của nước ta",
+      "Tư tưởng Hồ Chí Minh là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam, là kết quả của sự vận dụng và phát triển sáng tạo chủ nghĩa Mác-Lênin",
+      "Tư tưởng Hồ Chí Minh cùng với chủ nghĩa Mác-Lênin mãi mãi là nền tảng tư tưởng, kim chỉ nam cho hành động của Đảng"
+    ],
+    "correct": "Khái niệm Tư tưởng Hồ Chí Minh",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 25,
+    "question": "Đại hội nào được xem là cột mốc trong việc nêu cao Tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Đại hội VI (12-1986)",
+      "Đại hội IX (4-2001)",
+      "Đại hội đại biểu toàn quốc lần thứ VII của đảng",
+      "Đại hội XI (2011)"
+    ],
+    "correct": "Đại hội đại biểu toàn quốc lần thứ VII của đảng",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 26,
+    "question": "Trình bày sự đóng góp của chủ tịch Hồ Chí Minh đối với dân tộc Việt Nam ?",
+    "options": [
+      "Góp phần nâng cao năng lực tư duy lý luận. Giáo dục và thực hành đạo đức cách mạng, củng cố niềm tin khoa học gắn liền với trau dồi tình cảm cách mạng, bồi dưỡng lòng yêu nước. Xây dựng, rèn luyện phương pháp và phong cách công tác.",
+      "Kết quả của quá trình vận dụng sáng tạo chủ nghĩa Mác - Lênin",
+      "Đảng phải đặc biệt coi trọng việc tổ chức học tập một cách có hệ thống tư tưởng, đạo đức tác phong của Chủ tịch Hồ Chí Minh trong toàn Đảng",
+      "Tìm ra con đường cứu nước đúng đắn cho dân tộc. Sáng lập và rèn luyện Đảng Cộng sản Việt Nam. Lãnh đạo nhân dân giành độc lập dân tộc. Đặt nền móng cho Nhà nước Việt Nam mới. Xây dựng khối đại đoàn kết toàn dân tộc. Để lại hệ thống tư tưởng có giá trị to lớn. Nêu tấm gương đạo đức và phong cách mẫu mực. Đóng góp đối với phong trào giải phóng dân tộc và hòa bình thế giới."
+    ],
+    "correct": "Tìm ra con đường cứu nước đúng đắn cho dân tộc. Sáng lập và rèn luyện Đảng Cộng sản Việt Nam. Lãnh đạo nhân dân giành độc lập dân tộc. Đặt nền móng cho Nhà nước Việt Nam mới. Xây dựng khối đại đoàn kết toàn dân tộc. Để lại hệ thống tư tưởng có giá trị to lớn. Nêu tấm gương đạo đức và phong cách mẫu mực. Đóng góp đối với phong trào giải phóng dân tộc và hòa bình thế giới.",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 27,
+    "question": "Vai trò của lý luận chính trị trong tư tưởng Hồ Chí Minh?",
+    "options": [
+      "Lý luận là cái đích để thực hành bắn vào",
+      "Là kim chỉ nam định hướng hành động. Là vũ khí để giải quyết công việc hiệu quả và khách quan. Lý luận phải gắn liền với thực tiễn và góp phần xây dựng phẩm chất và bản lĩnh chính trị.",
+      "Lý luận phải gắn liền với thực tiễn cách mạng",
+      "Lý luận giúp tránh bệnh kinh nghiệm chủ nghĩa"
+    ],
+    "correct": "Là kim chỉ nam định hướng hành động. Là vũ khí để giải quyết công việc hiệu quả và khách quan. Lý luận phải gắn liền với thực tiễn và góp phần xây dựng phẩm chất và bản lĩnh chính trị.",
+    "citation": "C1.III.1.b",
+    "chapter": 1
+  },
+  {
+    "id": 28,
+    "question": "Vì sao khẳng định Tư tưởng Hồ Chí Minh được nêu tại Đại hội XI là hoàn chỉnh và toàn diện nhất?",
+    "options": [
+      "Vì lần đầu tiên khái niệm TTHCM được chính thức nêu ra trong văn kiện Đảng",
+      "Vì khái niệm được nêu trong đại hội XI chỉ rõ nội hàm cơ bản của tư tưởng Hồ Chí Minh, cơ sở hình thành cũng như ý nghĩa của tư tưởng đó. Một là, khái niệm này đã nêu rõ bản chất khoa học và cách mạng cũng như nội dung cơ bản của tư tưởng Hồ Chí Minh. Hai là, nêu lên cơ sở hình thành tư tưởng Hồ Chí Minh là chủ nghĩa MácLênin - giá trị cơ bản nhất trong quá trình hình thành và phát triển của tư tưởng đó. Ba là, khái niệm đó đã nêu lên ý nghĩa của tư tưởng Hồ Chí Minh, khẳng định\ntư tưởng Hồ Chí Minh là tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta",
+      "Vì đây là lần đầu tiên Đảng đề ra đường lối đổi mới toàn diện đất nước",
+      "Vì lần đầu tiên Đảng khẳng định lấy TTHCM làm nền tảng tư tưởng cùng với chủ nghĩa Mác-Lênin"
+    ],
+    "correct": "Vì khái niệm được nêu trong đại hội XI chỉ rõ nội hàm cơ bản của tư tưởng Hồ Chí Minh, cơ sở hình thành cũng như ý nghĩa của tư tưởng đó. Một là, khái niệm này đã nêu rõ bản chất khoa học và cách mạng cũng như nội dung cơ bản của tư tưởng Hồ Chí Minh. Hai là, nêu lên cơ sở hình thành tư tưởng Hồ Chí Minh là chủ nghĩa MácLênin - giá trị cơ bản nhất trong quá trình hình thành và phát triển của tư tưởng đó. Ba là, khái niệm đó đã nêu lên ý nghĩa của tư tưởng Hồ Chí Minh, khẳng định\ntư tưởng Hồ Chí Minh là tài sản tinh thần vô cùng to lớn và quý giá của Đảng và dân tộc ta",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 29,
+    "question": "Tiền đề lí luận nào có tính chất nền tảng trong việc hình thành TT HCM ?",
+    "options": [
+      "Chủ nghĩa Mác - Lênin",
+      "Là cơ sở hình thành lí luận và là giá trị cơ bản nhất. Là bản chất khoa học và cách mạng TTHCM.",
+      "Anh hùng giải phóng dân tộc và nhà văn hoá kiệt xuất",
+      "Đại hội đại biểu toàn quốc lần thứ VII của đảng"
+    ],
+    "correct": "Chủ nghĩa Mác - Lênin",
+    "citation": "C1.I",
+    "chapter": 1
+  },
+  {
+    "id": 30,
+    "question": "Nghiên cứu phải đứng trên lập trường GCCN, quan điểm chủ nghĩa Mác - Lenin, quán triệt Cương lĩnh, đường lối, qua. Điểm của Đảng Cộng sản Việt Nam thuộc nguyên tắc phương pháp luận nào?",
+    "options": [
+      "Thống nhất tính đảng và tính khoa học",
+      "Quan điểm kế thừa và phát triển",
+      "Quan điểm lịch sử - cụ thể",
+      "Thống nhất lý luận và thực tiễn"
+    ],
+    "correct": "Thống nhất tính đảng và tính khoa học",
+    "citation": "C1.III.1.a",
+    "chapter": 1
+  },
+  {
+    "id": 31,
+    "question": "Quan điểm toàn diện và hệ thống của TTHCM?",
+    "options": [
+      "Thứ nhất, toàn bộ những quan điểm của Hồ Chí Minh thể hiện trong di sản của Người. Đó là một hệ thống quan điểm toàn diện và sâu sắc về những vấn đề cơ bản của cách mạng Việt Nam. Thứ hai, quá trình hệ thống quan điểm của Hồ Chí Minh vận động trong thực tiễn. ",
+      "Quan điểm toàn diện và hệ thống yêu cầu xem xét sự vật trong mối liên hệ biện chứng, thống nhất; lấy độc lập dân tộc gắn với chủ nghĩa xã hội làm hạt nhân, gắn cách mạng Việt Nam với cách mạng thế giới và xác định đúng trọng điểm ở từng giai đoạn.",
+      "Chủ nghĩa Mác - Lênin",
+      "Quan điểm kế thừa và phát triển"
+    ],
+    "correct": "Quan điểm toàn diện và hệ thống yêu cầu xem xét sự vật trong mối liên hệ biện chứng, thống nhất; lấy độc lập dân tộc gắn với chủ nghĩa xã hội làm hạt nhân, gắn cách mạng Việt Nam với cách mạng thế giới và xác định đúng trọng điểm ở từng giai đoạn.",
+    "citation": "C1.III.1.d",
+    "chapter": 1
+  },
+  {
+    "id": 32,
+    "question": "Nghiên cứu, học tập TTHCM đòi hỏi không chỉ biết kế thừa, vận dụng mà còn phải biết phát triển sáng tại tư tưởng của Người trong điều kiện lịch sử mới, trong bối cảnh cụ thể của đất nước và quốc tế. Thuộc nguyên tắc phương pháp luận nào?",
+    "options": [
+      "Thống nhất tính đảng và tính khoa học",
+      "Thống nhất lý luận và thực tiễn",
+      "Quan điểm kế thừa và phát triển",
+      "Quan điểm lịch sử - cụ thể"
+    ],
+    "correct": "Quan điểm kế thừa và phát triển",
+    "citation": "C1.III.1.đ",
+    "chapter": 1
+  },
+  {
+    "id": 33,
+    "question": "Trong Điếu văn của BCH Trung ương Đảng có nêu rõ Hồ Chủ Tịch như thế nào?",
+    "options": [
+      "Hồ Chí Minh là người sáng lập và rèn luyện Đảng ta, người khai sinh nước Việt Nam Dân chủ Cộng hòa",
+      "Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, người anh hùng dân tộc vĩ đại, và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta",
+      "Hồ Chí Minh là vị lãnh tụ vĩ đại của giai cấp công nhân và nhân dân Việt Nam, người chiến sĩ lỗi lạc của phong trào cộng sản quốc tế",
+      "Hồ Chí Minh là người đã tìm ra con đường cứu nước đúng đắn cho dân tộc Việt Nam"
+    ],
+    "correct": "Dân tộc ta, nhân dân ta, non sông đất nước ta đã sinh ra Hồ Chủ tịch, người anh hùng dân tộc vĩ đại, và chính Người đã làm rạng rỡ dân tộc ta, nhân dân ta và non sông đất nước ta",
+    "citation": "C1.I",
+    "chapter": 1
+  }
+]
