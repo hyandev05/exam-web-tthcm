@@ -195,6 +195,11 @@ function animateStudyIn() {
   const header = $('study-header');
   const area = contentArea;
 
+  // Clear any leftover inline styles from animateStudyOut
+  header.style.opacity = '';
+  header.style.transform = '';
+  header.style.transition = '';
+
   // Reset
   header.classList.remove('anim-enter-active');
   area.style.opacity = '0';
