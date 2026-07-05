@@ -58,6 +58,7 @@
       }
     }
   </script>
+  <script src="https://unpkg.com/lucide@latest"></script>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;900&display=swap" rel="stylesheet">
   <style>
     body {
@@ -66,29 +67,19 @@
       background-size: 20px 20px;
     }
 
-    /* ===== TRANSITION SYSTEM ===== */
     .view-home    { display: block; }
     .view-study   { display: none; }
     body.study-active .view-home  { display: none; }
     body.study-active .view-study { display: block; }
 
-    /* ===== ANIMATION UTILITIES ===== */
-    .anim-enter {
-      opacity: 0;
-      transform: translateY(20px);
-    }
+    .anim-enter { opacity: 0; transform: translateY(20px); }
     .anim-enter-active {
-      opacity: 1;
-      transform: translateY(0);
+      opacity: 1; transform: translateY(0);
       transition: opacity 0.4s ease-out, transform 0.4s ease-out;
     }
-    .anim-stagger > * {
-      opacity: 0;
-      transform: translateY(16px);
-    }
+    .anim-stagger > * { opacity: 0; transform: translateY(16px); }
     .anim-stagger.anim-stagger-in > * {
-      opacity: 1;
-      transform: translateY(0);
+      opacity: 1; transform: translateY(0);
       transition: opacity 0.35s ease-out, transform 0.35s ease-out;
     }
     .anim-stagger.anim-stagger-in > *:nth-child(1) { transition-delay: 0.02s; }
@@ -98,70 +89,31 @@
     .anim-stagger.anim-stagger-in > *:nth-child(5) { transition-delay: 0.26s; }
     .anim-stagger.anim-stagger-in > *:nth-child(6) { transition-delay: 0.32s; }
 
-    /* ===== BACK BUTTON HOVER ===== */
-    .back-btn {
-      transition: all 0.25s ease;
-    }
-    .back-btn:hover .back-icon {
-      transform: translateX(-4px);
-    }
-    .back-icon {
-      display: inline-block;
-      transition: transform 0.25s ease;
-    }
+    .back-btn { transition: all 0.25s ease; }
+    .back-btn:hover .back-icon { transform: translateX(-4px); }
+    .back-icon { display: inline-block; transition: transform 0.25s ease; }
 
-    /* ===== CHIP ENTRANCE ===== */
-    .chip-item {
-      opacity: 0;
-      transform: translateY(12px);
-    }
-    .chip-visible .chip-item {
-      opacity: 1;
-      transform: translateY(0);
-      transition: opacity 0.3s ease-out, transform 0.3s ease-out;
-    }
-    .chip-visible .chip-item:nth-child(1) { transition-delay: 0.02s; }
-    .chip-visible .chip-item:nth-child(2) { transition-delay: 0.06s; }
-    .chip-visible .chip-item:nth-child(3) { transition-delay: 0.10s; }
-    .chip-visible .chip-item:nth-child(4) { transition-delay: 0.14s; }
-    .chip-visible .chip-item:nth-child(5) { transition-delay: 0.18s; }
-    .chip-visible .chip-item:nth-child(6) { transition-delay: 0.22s; }
-
-    /* ===== FLASHCARD FLIP ===== */
     .flashcard-inner {
       transition: transform 0.6s cubic-bezier(0.23, 1, 0.32, 1);
       transform-style: preserve-3d;
     }
-    .flashcard-flipped .flashcard-inner {
-      transform: rotateY(180deg);
-    }
-    .flashcard-front, .flashcard-back {
-      backface-visibility: hidden;
-      -webkit-backface-visibility: hidden;
-    }
-    .flashcard-back {
-      transform: rotateY(180deg);
-    }
+    .flashcard-flipped .flashcard-inner { transform: rotateY(180deg); }
+    .flashcard-front, .flashcard-back { backface-visibility: hidden; -webkit-backface-visibility: hidden; }
+    .flashcard-back { transform: rotateY(180deg); }
 
-    /* ===== SCROLLBAR ===== */
     ::-webkit-scrollbar { width: 6px; }
     ::-webkit-scrollbar-track { background: transparent; }
     ::-webkit-scrollbar-thumb { background: #d1d5db; border-radius: 10px; }
 
-    /* ===== QUIZ OPTIONS ===== */
     .quiz-option { transition: all 0.2s ease; }
-    .quiz-option:hover:not(:disabled) {
-      transform: translateX(4px);
-      border-color: #2A5CFF;
-      box-shadow: 0 4px 12px rgba(42, 92, 255, 0.12);
-    }
+    .quiz-option:hover:not(:disabled) { transform: translateX(4px); border-color: #2A5CFF; box-shadow: 0 4px 12px rgba(42, 92, 255, 0.12); }
     .quiz-option.correct { background-color: #dcfce7; border-color: #22c55e !important; }
     .quiz-option.wrong   { background-color: #fef2f2; border-color: #ef4444 !important; }
   </style>
 </head>
 <body class="min-h-screen flex flex-col font-sans text-text-dark overflow-x-hidden">
 
-  <!-- ===== HEADER (always visible) ===== -->
+  <!-- ===== HEADER ===== -->
   <header class="bg-surface shadow-sm border-b border-gray-100 sticky top-0 z-50">
     <div class="max-w-4xl mx-auto px-4 py-4 flex items-center justify-between">
       <a href="/" class="text-xl font-bold tracking-tight no-underline" onclick="event.preventDefault(); window.dispatchEvent(new CustomEvent('nav-home'))">
@@ -171,11 +123,11 @@
       <nav id="tab-nav" class="flex gap-1 bg-gray-100 rounded-xl p-1">
         <button data-tab="flashcard"
                 class="px-5 py-2 rounded-lg text-sm font-semibold transition-all duration-200 bg-primary text-white shadow-md">
-          <span class="hidden sm:inline mr-1">&#x1F4D6;</span> Flash Card
+          <i data-lucide="book-open" class="w-4 h-4 hidden sm:inline-block mr-1"></i> Flash Card
         </button>
         <button data-tab="quiz"
                 class="px-5 py-2 rounded-lg text-sm font-semibold transition-all duration-200 text-text-gray hover:text-text-dark">
-          <span class="hidden sm:inline mr-1">&#x1F4DD;</span> Trắc Nghiệm
+          <i data-lucide="file-text" class="w-4 h-4 hidden sm:inline-block mr-1"></i> Trắc Nghiệm
         </button>
       </nav>
     </div>
@@ -184,24 +136,22 @@
   <!-- ===== MAIN ===== -->
   <main class="flex-1 max-w-4xl mx-auto px-4 py-6 w-full">
 
-    <!-- ====== HOME VIEW: Chapter Grid ====== -->
+    <!-- ====== HOME VIEW ====== -->
     <div id="home-view" class="view-home">
       <div id="home-header" class="text-center mb-8 anim-enter">
         <h2 class="text-2xl md:text-3xl font-black text-text-dark">Chọn Chương Học</h2>
         <p class="text-sm text-text-gray mt-2">Lựa chọn chương để bắt đầu học tập</p>
       </div>
       <div id="chapter-grid" class="grid grid-cols-2 md:grid-cols-3 gap-4 anim-stagger">
-        <!-- Rendered by app.js -->
       </div>
     </div>
 
-    <!-- ====== STUDY VIEW: Full-Focus Content ====== -->
+    <!-- ====== STUDY VIEW ====== -->
     <div id="study-view" class="view-study">
-      <!-- Study Header -->
       <div id="study-header" class="flex items-center gap-4 mb-6 anim-enter">
         <button id="back-home-btn"
                 class="back-btn inline-flex items-center gap-1.5 px-4 py-2 rounded-xl text-sm font-semibold border-2 border-gray-200 text-text-gray hover:border-primary hover:text-primary hover:bg-primary/5 transition-all duration-200">
-          <span class="back-icon">&larr;</span>
+          <i data-lucide="arrow-left" class="w-4 h-4 back-icon"></i>
           <span class="hidden sm:inline">Quay lại</span>
         </button>
         <div class="flex-1 min-w-0">
@@ -210,10 +160,7 @@
         </div>
         <span id="study-badge" class="inline-flex items-center px-3 py-1 rounded-full text-xs font-semibold bg-primary/10 text-primary whitespace-nowrap"></span>
       </div>
-
-      <!-- Content Area (flashcard/quiz renders here) -->
       <div id="content-area" class="min-h-[400px]">
-        <!-- Rendered by flashcard.js or quiz.js -->
       </div>
     </div>
 
@@ -228,7 +175,6 @@
     </div>
   </footer>
 
-  <!-- Scripts -->
   <script type="module" src="assets/js/flashcard.js"></script>
   <script type="module" src="assets/js/quiz.js"></script>
   <script type="module" src="assets/js/app.js"></script>
