@@ -40,12 +40,15 @@ const CHAPTERS = [
 // ===== HELPERS =====
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
+// ===== BUMP THIS ON EVERY DEPLOY to bust CDN cache =====
+const BUILD = 'v5';
+
 // ===== DATA LOADING =====
 async function loadData() {
   try {
     const [flashRes, quizRes] = await Promise.all([
-      fetch('data.json'),
-      fetch('quiz-data.json')
+      fetch('data.json?t=' + BUILD),
+      fetch('quiz-data.json?t=' + BUILD)
     ]);
     const flashRaw = await flashRes.json();
     const quizRaw = await quizRes.json();
