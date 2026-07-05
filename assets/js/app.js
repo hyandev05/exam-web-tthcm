@@ -41,7 +41,8 @@ const CHAPTERS = [
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
 // ===== BUMP THIS ON EVERY DEPLOY to bust CDN cache =====
-const BUILD = 'v5';
+// Bump on each deploy to bust CDN cache for data files
+const BUILD = 'v6';
 
 // ===== DATA LOADING =====
 async function loadData() {
